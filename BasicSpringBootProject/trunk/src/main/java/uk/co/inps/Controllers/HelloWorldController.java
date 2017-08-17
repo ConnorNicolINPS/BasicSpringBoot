@@ -1,4 +1,4 @@
-package uk.co.inps.spike.Controllers;
+package uk.co.inps.Controllers;
 
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package uk.co.inps.spike;
+package uk.co.inps;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -10,16 +10,16 @@
         <version>1.5.3.RELEASE</version>
     </parent>
 
-    <groupId>uk.co.inps.spike</groupId>
-    <artifactId>spring-boot-spike</artifactId>
+    <groupId>uk.co.inps</groupId>
+    <artifactId>BasicSpringBootProject</artifactId>
     <packaging>jar</packaging>
     <version>1.0.0.1-SNAPSHOT</version>
 
-    <name>spring-boot-spike</name>
+    <name>BasicSpringBoot</name>
     <url>http://maven.apache.org</url>
 
     <properties>
-        <start-class>uk.co.inps.spike.Application</start-class>
+        <start-class>uk.co.inps.Application</start-class>
     </properties>
 
     <dependencies>
