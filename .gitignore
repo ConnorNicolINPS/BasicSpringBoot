@@ -29,7 +29,6 @@ overridedb.*
 *.iml
 *.ipr
 *.iws
-.idea
 *.jar
 .DS_Store
 dump.rdb
