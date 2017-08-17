@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BasicSpringBootProject/trunk/.idea/springboot-spike.iml" filepath="$PROJECT_DIR$/BasicSpringBootProject/trunk/.idea/springboot-spike.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BasicSpringBootProject/trunk/spring-boot-spike.iml" filepath="$PROJECT_DIR$/BasicSpringBootProject/trunk/spring-boot-spike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicSpringBootProject/trunk/.idea/BasicSpringBootProject.iml" filepath="$PROJECT_DIR$/BasicSpringBootProject/trunk/.idea/BasicSpringBootProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicSpringBootProject/trunk/BasicSpringBootProject.iml" filepath="$PROJECT_DIR$/BasicSpringBootProject/trunk/BasicSpringBootProject.iml" />
     </modules>
   </component>
 </project>
