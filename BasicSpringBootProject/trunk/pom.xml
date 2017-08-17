@@ -23,7 +23,6 @@
     </properties>
 
     <dependencies>
-
         <!--Spring boot stuff-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -45,7 +44,6 @@
             <version>3.8.1</version>
             <scope>test</scope>
         </dependency>
-
     </dependencies>
 
     <build>
@@ -56,5 +54,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
