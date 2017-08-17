@@ -7,7 +7,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.0.1.RELEASE</version>
+        <version>1.5.3.RELEASE</version>
     </parent>
 
     <groupId>uk.co.inps.spike</groupId>
@@ -19,16 +19,26 @@
     <url>http://maven.apache.org</url>
 
     <properties>
-        <start-class>uk.co.inps.spike.SpringBootSpike</start-class>
+        <start-class>uk.co.inps.spike.Application</start-class>
     </properties>
 
     <dependencies>
 
+        <!--Spring boot stuff-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-autoconfigure</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-logging</artifactId>
+        </dependency>
 
+        <!-- junit -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
